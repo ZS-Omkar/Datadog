@@ -1,4 +1,4 @@
 - name: Import artifacts common role
   include_role:
     name: common
-    tasks_from: datadogd
+    tasks_from: datadog
