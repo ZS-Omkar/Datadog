@@ -1,4 +1,4 @@
-- name: Import artifacts common role
+- name: Import from common role
   include_role:
     name: common
     tasks_from: main.yml
