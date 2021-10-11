@@ -1,4 +1,4 @@
 - name: import from common role
   include_role:
-    name: datadog
-    tasks_from: common
+    name: common
+    tasks_from: datadog
